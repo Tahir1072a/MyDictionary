@@ -1,0 +1,16 @@
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.exe
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.deps.json
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.runtimeconfig.json
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.runtimeconfig.dev.json
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.dll
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.pdb
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.AssemblyInfoInputs.cache
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.AssemblyInfo.cs
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.dll
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\refint\MyDictionary.dll
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.pdb
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.genruntimeconfig.cache
+C:\Users\alica\source\repos\MyDictionary\MyDictionary\obj\Debug\net5.0\ref\MyDictionary.dll
