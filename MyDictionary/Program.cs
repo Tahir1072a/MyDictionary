@@ -12,6 +12,7 @@ namespace MyDictionary
            names.Add(2, "Engin"); // Burda hata vermez çünkü key değeri daha önce kullanılmamış.
 
            names.ShowList();
+
         }
     }
 }

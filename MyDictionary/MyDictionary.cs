@@ -13,12 +13,12 @@ namespace MyDictionary
         public MyDictionary()
         {
             items = new KeyValuePair<T, K>[0];
-        }
+        } 
         public void Add(T _key,K _value)
         {
             if (Control(_key))
             {
-                Configuration(_key);
+                Configuration();
                 items[items.Length - 1] = new KeyValuePair<T, K>(_key, _value); // En son bize gelen değeri dizimize aktarıp işi bitirdik.
             }
             else
@@ -37,7 +37,7 @@ namespace MyDictionary
 
         }
 
-        private void Configuration(T _key)
+        private void Configuration()
         {
             KeyValuePair<T, K>[] tempArray = items;  // Geçici dizimizi oluşturduk
             items = new KeyValuePair<T, K>[items.Length + 1];
